@@ -1,1 +1,4 @@
-POC Generative AI using Spring AI 
+POC Generative AI using Spring AI
+
+Sample:
+![img.png](img.png)

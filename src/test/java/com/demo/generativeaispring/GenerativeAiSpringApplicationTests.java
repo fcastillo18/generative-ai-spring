@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class GenerativeAiSpringApplicationTests {
 
+	// TODO
 	@Test
 	void contextLoads() {
 	}
